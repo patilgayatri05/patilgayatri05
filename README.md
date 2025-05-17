@@ -1,7 +1,3 @@
-![Uploading Purple Gradient Typographic Technology LinkedIn Banner.png…]()
-
-
-
 
 
 ## 👋 Hey there! I'm **Gayatri Patil**
