@@ -1,50 +1,60 @@
-
-
-## 👋 Hey there! I'm **Gayatri Patil**
-
-🎓 *Student of Mumbai University*  
-💻 *Diploma Holder in Computer Engineering* from MSBTE
+<h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
+<h3 align="center">I am a passionate fullstack developer & tech enthusiast!</h3>
 
 ---
 
-### 🚀 About Me
-
-💡 Passionate Programmer | Tech Enthusiast | Lifelong Learner  
-🌟 I absolutely love building things with code and exploring new technologies.
-
-🧠 DSA Problem Solver on [LeetCode](https://leetcode.com/)  
-💬 Actively improving problem-solving skills and mastering algorithms.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-🛠️ Currently Learning:  
-- TypeScript  
-- Express.js  
-- Git & GitHub  
-- System Design Basics
+### 👩‍🎓 About Me
+- 🎓 Student of Mumbai University  
+- 💻 Diploma Holder in Computer Engineering from MSBTE  
+- 🚀 I love building things with code and exploring new technologies  
+- 🧠 Passionate about DSA and solving real-world problems  
+- ✨ Always keen to contribute, explore, and collaborate on exciting projects
 
 ---
 
-### 💡 Fun Facts
-
-- 🌐 I love building web apps from scratch  
-- 📚 I'm a curious learner—every bug is a lesson in disguise!  
-- 🌱 Learning never stops, and I'm always looking to level up 💪  
-- ✨ I enjoy contributing to open-source and collaborating on meaningful projects  
+### 🛠️ Currently Working With:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-🔗 *Let’s connect and create amazing things together!*
+### 🔧 Currently Learning
+- 📘 TypeScript  
+- ⚙️ ExpressJS  
+- 🧰 Git & GitHub  
+- 🧠 System Design Basics
+
+---
+
+### 📌 Fun Facts
+- ✨ I love to bring UI/UX design to life  
+- 🧩 I'm a curious learner—every bug is a lesson in disguise!  
+- 🚀 I'm a team player and enjoy brainstorming for creative solutions  
+- 💡 I enjoy contributing to open source and collaborating on meaningful tech
+
+---
+
+### 📬 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gsp1105patil@gamil.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/patiligayatri05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💖 Thank you for visiting my profile!</p>
