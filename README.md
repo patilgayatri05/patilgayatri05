@@ -60,4 +60,15 @@
 
 ---
 
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
+
+[![LeetCode Profile](https://leetcode-badge.vercel.app/api?username=YourLeetCodeUsername)](https://leetcode.com/YourLeetCodeUsername/)
+
+
+---
+
+
 <p align="center">💖 Thank you for visiting my profile!</p>
+
