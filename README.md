@@ -60,11 +60,11 @@
 
 ---
 
-![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilgayatri05&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri05&theme=dark)
 
-[![LeetCode Profile](https://leetcode-badge.vercel.app/api?username=YourLeetCodeUsername)](https://leetcode.com/YourLeetCodeUsername/)
+[![LeetCode Profile](https://leetcode-badge.vercel.app/api?username=gayatrip11)](https://leetcode.com/gayatrip11/)
 
 
 ---
