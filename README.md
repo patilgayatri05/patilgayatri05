@@ -29,22 +29,6 @@
 
 ---
 
-### 🔧 Currently Learning
-- 📘 TypeScript  
-- ⚙️ ExpressJS  
-- 🧰 Git & GitHub  
-- 🧠 System Design Basics
-
----
-
-### 📌 Fun Facts
-- ✨ I love to bring UI/UX design to life  
-- 🧩 I'm a curious learner—every bug is a lesson in disguise!  
-- 🚀 I'm a team player and enjoy brainstorming for creative solutions  
-- 💡 I enjoy contributing to open source and collaborating on meaningful tech
-
----
-
 ### 📬 Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank">
