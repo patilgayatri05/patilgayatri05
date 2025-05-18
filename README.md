@@ -65,6 +65,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri05&theme=dark)
 
 
+[LeetCode Profile](https://leetcode.com/gayatrip11/)
+
+
+
 
 
 ---
