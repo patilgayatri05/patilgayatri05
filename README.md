@@ -38,20 +38,23 @@
 ---
 ### 📬 Connect with me:
 
+### 📬 Connect with me:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank">
+  <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:gsp1105patil@gamil.com" target="_blank">
+  <a href="mailto:gsp1105patil@gamil.com" target="_blank" style="margin-right: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/patiligayatri05" target="_blank">
+  <a href="https://github.com/patiligayatri05" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://x.com/PatilGayatree11" target="_blank">
+  <a href="https://x.com/PatilGayatree11" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
