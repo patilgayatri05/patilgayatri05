@@ -36,7 +36,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai)
 
 ---
-### 📬 Connect with me:
 
 ### 📬 Connect with me:
 
