@@ -67,7 +67,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai
+![LeetCode Stats](https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai)
 
 
 
