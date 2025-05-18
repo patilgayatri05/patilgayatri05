@@ -65,7 +65,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri05&theme=dark)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai)
+![](https://leetcard.gayatrip11/lapor?ext=contest)
 
 
 
