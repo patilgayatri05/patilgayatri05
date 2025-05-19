@@ -45,6 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
 </p>
 
+<p align="left">
+  <strong> 🏆 Achievement:</strong><br/>
+
+![LeetCode 50 Days](https://github.com/patilgayatri05/patilgayatri05/blob/main/leetcode-50days.gif)
 
 ---
 
