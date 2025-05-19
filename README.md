@@ -41,7 +41,7 @@
 
 <!-- Problem Solving -->
 <p align="left">
-  <strong>🧠 Problem Solving:</strong><br/>
+  <strong>🧠 Problem Solving(DSA):</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
 </p>
 
