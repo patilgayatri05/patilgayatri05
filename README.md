@@ -75,7 +75,7 @@
 
 ---
 
-<h3 align="center">🏅 Achievement </h3>
+<h3 align="left">🏅 Achievement </h3>
 <p align="center">
   <img src="https://github.com/patilgayatri05/patilgayatri05/blob/main/leetcode-50days.gif.gif" width="150" alt="LeetCode 50 Days Badge"/>
 </p>
