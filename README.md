@@ -73,10 +73,13 @@
 
 </p>
 
-<p align="left">
-  <strong> 🏆 Achievement:</strong><br/>
+---
 
-![LeetCode 50 Days](https://github.com/patilgayatri05/patilgayatri05/blob/main/leetcode-50days.gif)
+<h3 align="center">🏅 Achievement </h3>
+<p align="center">
+  <img src="https://github.com/patilgayatri05/patilgayatri05/blob/main/leetcode-50days.gif.gif" width="150" alt="LeetCode 50 Days Badge"/>
+</p>
+
 
 ---
 
