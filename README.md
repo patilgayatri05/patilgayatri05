@@ -41,32 +41,6 @@
 
 <!-- Problem Solving -->
 <p align="left">
-  <strong>🧠 Problem Solving(DSA):</strong><br/>
-<!-- Frontend -->
-<p align="left">
-  <strong>🌐 Frontend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
-</p>
-
-<!-- Backend -->
-<p align="left">
-  <strong>🛠️ Backend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
-</p>
-
-<!-- Database -->
-<p align="left">
-  <strong>🗄️ Database:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-</p>
-
-<!-- Problem Solving -->
-<p align="left">
   <strong>🧠 Problem Solving:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
 </p>
@@ -79,7 +53,6 @@
 <p align="left">
   <img src="https://github.com/patilgayatri05/patilgayatri05/blob/main/leetcode-50days.gif.gif" width="150" alt="LeetCode 50 Days Badge"/>
 </p>
-
 
 ---
 
