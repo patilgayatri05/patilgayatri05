@@ -17,12 +17,6 @@
 
 ---
 
-Let me know if you'd like to make it more professional, creative, or casual depending on where you're using it (e.g., LinkedIn, GitHub, portfolio).
-
-- 
-
----
-
 ### 🛠️ Currently Working With:
 <!-- Frontend -->
 <p align="left">
