@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
 <h3 align="center">I am a passionate fullstack developer & tech enthusiast!</h3>
-![](https://komarev.com/ghpvc/?username=patilgayatri05&color=blue)
+
 
 
 ---
