@@ -1,10 +1,13 @@
+<!-- Banner -->
 ![Banner](./banner%209.jpg)
 
+<!-- Coding Girl GIF on Right -->
+<p align="right">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Coding Girl GIF" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
 <h3 align="center">I am a passionate fullstack developer & tech enthusiast!</h3>
-
-
 
 ---
 
@@ -49,11 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
 </p>
 
-</p>
-
 ---
 
-
+### 📊 GitHub Stats:
 ![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilgayatri05&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri05&theme=dark)
@@ -63,7 +64,6 @@
 ---
 
 ### 📬 Connect with me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank" style="margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -79,10 +79,6 @@
   </a>
 </p>
 
-
 ---
 
-
-
 <p align="center">💖 Thank you for visiting my profile!</p>
-
