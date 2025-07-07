@@ -1,11 +1,6 @@
 <!-- Banner -->
 ![Banner](./banner%209.jpg)
 
-<!-- Coding Girl GIF on Right -->
-<p align="right">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Coding Girl GIF" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
 <h3 align="center">I am a passionate fullstack developer & tech enthusiast!</h3>
 
