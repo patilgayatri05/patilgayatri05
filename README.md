@@ -13,7 +13,7 @@
 - 🧠 Passionate about DSA and solving real-world problems  
 - ✨ Always keen to contribute, explore, and collaborate on exciting projects.
 - 🚀 Open to exciting collaborations and always eager to contribute to impactful projects that spark innovation and growth!
-- ✍️ Writing as I grow in tech — follow my journey on [Medium](https://medium.com/@gsp1105patil).
+- ✍️ Writing as I grow in tech — follow my journey on [medium.com/@gsp1105pati](https://medium.com/@gsp1105patil).
 - 📨 Feel free to drop me a message at:* **[gsp1105patil@gmail.com](mailto:gsp1105patil@gmail.com)**
 
 ---
