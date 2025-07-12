@@ -13,7 +13,7 @@
 - 🧾 Diploma Holder in Computer Engineering — *MSBTE*
 - 🧠 Passionate about DSA & solving real-world problems through code
 - 💡 Love working on real-world projects and exploring new technologies
-- ✍️ Writing my tech journey on [Medium](https://medium.com/@gsp1105patil)
+- ✍️ Writing my tech journey on [medium.com/@gsp1105patil](https://medium.com/@gsp1105patil)
 - 📬 Reach me at: **[gsp1105patil@gmail.com](mailto:gsp1105patil@gmail.com)**
 
 ---
