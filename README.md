@@ -1,80 +1,141 @@
-<!-- Banner -->
-![Banner](./banner%209.jpg)
+<!-- Banner Image -->
+<p align="center">
+  <img src="./banner 9.jpg" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
-<h3 align="center">I am a passionate fullstack developer & tech enthusiast!</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
 ---
 
 ### 👩‍🎓 About Me
-- 🎓 Student of Mumbai University  
-- 💻 Diploma Holder in Computer Engineering from MSBTE  
-- 🚀 I love building things with code and exploring new technologies  
-- 🧠 Passionate about DSA and solving real-world problems  
-- ✨ Always keen to contribute, explore, and collaborate on exciting projects.
-- 🚀 Open to exciting collaborations and always eager to contribute to impactful projects that spark innovation and growth!
-- ✍️ Writing as I grow in tech — follow my journey on [medium.com/@gsp1105patil](https://medium.com/@gsp1105patil).
-- 📨 Feel free to drop me a message at:* **[gsp1105patil@gmail.com](mailto:gsp1105patil@gmail.com)**
+- 🎓 Pursuing Computer Engineering at *Mumbai University*
+- 🧾 Diploma Holder in Computer Engineering — *MSBTE*
+- 🧠 Passionate about DSA & solving real-world problems through code
+- 💡 Love working on real-world projects and exploring new technologies
+- ✍️ Writing my tech journey on [Medium](https://medium.com/@gsp1105patil)
+- 📬 Reach me at: **[gsp1105patil@gmail.com](mailto:gsp1105patil@gmail.com)**
 
 ---
 
-### 🛠️ Currently Working With:
-<!-- Frontend -->
-<p align="left">
-  <strong>🌐 Frontend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 </p>
 
-<!-- Backend -->
-<p align="left">
-  <strong>🛠️ Backend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+#### 🛠️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </p>
 
-<!-- Database -->
-<p align="left">
-  <strong>🗄️ Database:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+#### 🗄️ Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </p>
 
-<!-- Problem Solving -->
-<p align="left">
-  <strong>🧠 Problem Solving:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
-![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilgayatri05&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilgayatri05&theme=dark)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai)
-
----
-
-### 📬 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:gsp1105patil@gamil.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/patiligayatri05" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://x.com/PatilGayatree11" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
-  </a>
+#### 🧠 Problem Solving & Programming
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </p>
 
 ---
 
-<p align="center">💖 Thank you for visiting my profile!</p>
+### 🚀 Featured Projects
+
+- 🧠 [Sentiment Analysis on Comments](https://github.com/patiligayatri05/sentiment-analysis)  
+  > Python-based sentiment classifier with NLP on user comments.  
+  *(Tech: Python, Scikit-learn, NLTK)*
+
+- 📝 [AI-Powered Finance Manager](https://github.com/patiligayatri05/finance-manager)  
+  > A smart expense manager with AI-based mood tracking.  
+  *(Tech: React, Node.js, MongoDB, Express)*
+
+- 💡 [Loan Prediction System](https://github.com/patiligayatri05/loan-predictor)  
+  > Predict loan eligibility based on user details using ML.  
+  *(Tech: Flask, Python, Pandas, scikit-learn)*
+
+---
+
+### 🏆 Achievements & Certifications
+- 🥇 Winner - Inter-college Hackathon (2024)
+- 📜 Certified in *Full Stack Web Development* – SkillUp Academy
+- 🧩 Badge Holder - GitHub Actions, JavaScript (Hacktoberfest 2023)
+
+---
+
+### 🌱 Currently Learning
+- TypeScript & Next.js
+- System Design Basics
+- DevOps: Docker & CI/CD
+
+---
+
+### 💬 Ask Me About
+- Frontend Development with React
+- REST APIs in Node.js & Express
+- MongoDB, Mongoose
+- DSA with C++ / Python
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilgayatri05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=patilgayatri05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%"/>
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gayatrip11?theme=dark&font=Meera%20Inimai" alt="LeetCode Profile" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgayatri05&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🎉 Fun Facts
+- 🎨 I enjoy designing UI as much as building logic
+- 🎧 Music keeps me in the zone while coding
+- ☕ Coffee is my best debugger
+
+---
+
+### 🔗 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/gayatri-patil-0388a027b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gsp1105patil@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/patiligayatri05" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/PatilGayatree11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" title="Twitter" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting my profile — Let's build something great together! ✨</p>
