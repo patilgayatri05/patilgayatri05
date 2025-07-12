@@ -3,8 +3,8 @@
   <img src="./banner 9.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver| 📚 Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Gayatree Patil</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 📚 Lifelong Learner</h3>
 
 ---
 
