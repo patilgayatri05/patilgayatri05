@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gayatri Patil</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver| 📚 Lifelong Learner</h3>
 
 ---
 
@@ -59,24 +59,6 @@
 - 📝 [AI-Powered Finance Manager](https://github.com/patiligayatri05/finance-manager)  
   > A smart expense manager with AI-based mood tracking.  
   *(Tech: React, Node.js, MongoDB, Express)*
-
-- 💡 [Loan Prediction System](https://github.com/patiligayatri05/loan-predictor)  
-  > Predict loan eligibility based on user details using ML.  
-  *(Tech: Flask, Python, Pandas, scikit-learn)*
-
----
-
-### 🏆 Achievements & Certifications
-- 🥇 Winner - Inter-college Hackathon (2024)
-- 📜 Certified in *Full Stack Web Development* – SkillUp Academy
-- 🧩 Badge Holder - GitHub Actions, JavaScript (Hacktoberfest 2023)
-
----
-
-### 🌱 Currently Learning
-- TypeScript & Next.js
-- System Design Basics
-- DevOps: Docker & CI/CD
 
 ---
 
