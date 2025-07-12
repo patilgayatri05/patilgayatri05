@@ -62,11 +62,15 @@
 
 ---
 
-### 💬 Ask Me About
-- Frontend Development with React
-- REST APIs in Node.js & Express
-- MongoDB, Mongoose
-- DSA with C++ / Python
+### 📝 Check Out My Blogs
+
+- 📘 **Medium**  
+  Sharing my learnings, development journey & coding insights:  
+  👉 [medium.com/@gsp1105patil](https://medium.com/@gsp1105patil)
+
+- 📗 **GeeksforGeeks**  
+  Sorting 0s, 1s, and 2s — Brute Force & Optimal Approach Explained with Visuals:  
+  👉 [Read on GeeksforGeeks](https://www.geeksforgeeks.org/community/post/55634/title-sorting-an-array-of-0s-1s-and-2s-brute-force-and-optimal-solutions-explained-with-visuals/)
 
 ---
 
