@@ -52,11 +52,11 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [Sentiment Analysis on Comments](https://github.com/patiligayatri05/sentiment-analysis)  
+- 🧠 [Sentiment Analysis on Comments](https://github.com/patilgayatri05/sentiment-Analysis-in-social-networking-by-using-SVM)  
   > Python-based sentiment classifier with NLP on user comments.  
   *(Tech: Python, Scikit-learn, NLTK)*
 
-- 📝 [AI-Powered Finance Manager](https://github.com/patiligayatri05/finance-manager)  
+- 📝 [AI-Powered Finance Manager](https://github.com/patilgayatri05/Moneymap-AI-Powered-Finance-Management-System)  
   > A smart expense manager with AI-based mood tracking.  
   *(Tech: React, Node.js, MongoDB, Express)*
 
