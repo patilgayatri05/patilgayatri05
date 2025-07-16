@@ -54,7 +54,7 @@
 
 - 🧠 [Sentiment Analysis on Comments](https://github.com/patilgayatri05/sentiment-Analysis-in-social-networking-by-using-SVM)  
   > Python-based sentiment classifier with NLP on user comments.  
-  *(Tech: Python, SHTML,CSS,JS,PHP)*
+  *(Tech: Python, HTML,CSS,JS,PHP)*
 
 - 📝 [AI-Powered Finance Manager](https://github.com/patilgayatri05/Moneymap-AI-Powered-Finance-Management-System)  
   > A smart expense manager with AI-based mood tracking.  
