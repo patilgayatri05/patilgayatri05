@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gayatree Patil</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 📚 Lifelong Learner </h3>
 
 ---
 
